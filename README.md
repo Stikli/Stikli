@@ -2,7 +2,7 @@
 - 👀 I’m interested in all kind of programming like frontend, backend or data engineering.
 - 🌱 I’m currently learning Pythong but I would like to learn and master more languages
 - 💞️ I’m looking to collaborate on ... Pass
-- 📫 How to reach me ... 
+- 📫 How to reach me ... Pass
 
 <!---
 Stikli/Stikli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
