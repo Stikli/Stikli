@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stikli
 - 👀 I’m interested in all kind of programming like frontend, backend or data engineering.
-- 🌱 I’m currently learning Pythong but I would like to learn and master more languages
+- 🌱 I’m currently learning HTML, CSS and JavaScript but I would like to learn and master more languages
 - 💞️ I’m looking to collaborate on ... Pass
 - 📫 How to reach me ... Pass
 
